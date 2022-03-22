@@ -1,7 +1,7 @@
 # E-commerce Back-end
   
 ## Description 
-The back end for an e-commerce site using Express.js, Sequelize and MySQL.
+The backend for an e-commerce site using Express.js, Sequelize and MySQL.
 
 ## Installation
 
